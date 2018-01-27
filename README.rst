@@ -5,7 +5,7 @@
 Language:
 =========
 ::us: us_
-::cn: cn_
+::cn: 中文_
 
 Overview
 ========
@@ -60,4 +60,4 @@ conda builds are available for linux, mac and windows.
    :target: http://pyserial.readthedocs.io/
    :alt: Documentation
 .. _us: http://pyserial.readthedocs.io/
-.. _cn: documentation/zh-CN/README.rst
+.. _中文: documentation/zh-CN/README.rst
