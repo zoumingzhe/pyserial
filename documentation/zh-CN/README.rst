@@ -40,10 +40,11 @@ Windows，OSX，Linux，BSD，Jython，IronPython可通过 Python_ 库下载源�
 
 中文支持
 ========
-问文档的翻译由 zoumingzhe@qq.com_ 完成，为了更好的帮助更多的中国开发者了解和使用pySerial模块，请关注中文工程主页: https://github.com/zoumingzhe/pyserial
+问文档的翻译工作由zoumingzhe@qq.com 作者主页_ 独立完成。
+为了更好的帮助更多的中国开发者了解和使用pySerial模块，请关注中文工程主页: https://github.com/zoumingzhe/pyserial
 
 
-.. _zoumingzhe@qq.com: https://zoumingzhe.github.io
+.. _作者主页: https://zoumingzhe.github.io
 .. _English: ../../README.rst
 .. _简体中文: ../../documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
