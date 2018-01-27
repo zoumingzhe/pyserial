@@ -2,9 +2,10 @@
  pySerial  |build-status| |docs| 
 =================================
 
-Language:
+
+Language: - :us: English_ :cn: 简体中文_
 =========
-::us: English_  :cn: 简体中文_
+
 
 Overview
 ========
@@ -49,7 +50,7 @@ To install this package with conda run:
 conda builds are available for linux, mac and windows.
 
 
-.. _English_: README.rst
+.. _English: README.rst
 .. _简体中文: documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
 .. _examples: https://github.com/pyserial/pyserial/blob/master/examples
