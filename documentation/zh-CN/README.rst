@@ -5,17 +5,13 @@
 Language :us: English_ :cn: 简体中文_
 =========================================================================
 
-Overview
-========
-This module encapsulates the access for the serial port. It provides backends
-for Python_ running on Windows, OSX, Linux, BSD (possibly any POSIX compliant
-system) and IronPython. The module named "serial" automatically selects the
-appropriate backend.
+概述
+====
+该模块封装了串口的访问。它提供了运行在Windows，OSX，Linux，BSD（可能是任何POSIX兼容系统）和IronPython上的Python的后端。“serial”模块自动选择适当的后端。
 
-- Project Homepage: https://github.com/pyserial/pyserial
-- Download Page: https://pypi.python.org/pypi/pyserial
-
-BSD license, (C) 2001-2017 Chris Liechti <cliechti@gmx.net>
+- 工程主页: https://github.com/pyserial/pyserial
+- 下载地址: https://pypi.python.org/pypi/pyserial
+- 法律许可: BSD license, (C) 2001-2017 Chris Liechti <cliechti@gmx.net>
 
 
 Documentation
@@ -25,9 +21,9 @@ directory.  The ".rst" files can be read in any text editor or being converted t
 HTML or PDF using Sphinx_. An HTML version is online at
 https://pythonhosted.org/pyserial/
 
-Examples
-========
-Examples and unit tests are in the directory examples_.
+例程
+====
+例程和测试单元存放在工程文件的examples_目录下。
 
 
 Installation
