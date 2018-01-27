@@ -17,7 +17,7 @@ Language :us: English_ :cn: 简体中文_
 文档
 ====
 API（应用程序接口）文档、用法和例程可查阅 documentation_ 目录下的文档。
-directory.
+
 - .rst后缀文件可以在任何文本编辑器中查看或者使用 Sphinx_ 转换成HTML或PDF格式
 - 在线HTML版本请浏览：https://pythonhosted.org/pyserial/
 
@@ -28,20 +28,12 @@ directory.
 
 安装
 ====
-``pip install pyserial`` should work for most users.
+大多数用户可以通过一下命令安装pySerial模块，更多安装信息请查阅 `documentation/pyserial.rst`_ 该文档。
+``pip install pyserial`` 
 
-Detailed information can be found in `documentation/pyserial.rst`_.
-
-The usual setup.py for Python_ libraries is used for the source distribution.
-Windows installers are also available (see download link above).
-
-or
-
-To install this package with conda run:   
-
+Windows，OSX，Linux，BSD，Jython，IronPython可通过 Python_ 库下载源文件后使用setup.py进行安装（请参阅上面的下载地址）。
+或者是通过conda命令来安装（conda版本可用于Linux，Mac和Windows）：
 ``conda install -c conda-forge pyserial``   
-
-conda builds are available for linux, mac and windows.
 
 
 .. _English: ../../README.rst
