@@ -48,8 +48,8 @@ To install this package with conda run:
 conda builds are available for linux, mac and windows.
 
 
-.. _English: README.rst
-.. _简体中文: documentation/zh-CN/README.rst
+.. _English: ../../README.rst
+.. _简体中文: ../../documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
 .. _examples: https://github.com/pyserial/pyserial/blob/master/examples
 .. _Python: http://python.org/
