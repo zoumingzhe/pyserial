@@ -1,9 +1,11 @@
-<div align="right">Language: :us:
-<a title="Chinese" href="documentation/zh-CN/README.rst">:cn:</a></div>
+=================================
+ pySerial  |build-status| |docs| 
+=================================
 
-=================================
- pySerial  |build-status| |docs| :cn:_
-=================================
+Language:
+=========
+:us:us_
+:cn:cn_
 
 Overview
 ========
@@ -57,4 +59,5 @@ conda builds are available for linux, mac and windows.
 .. |docs| image:: https://readthedocs.org/projects/pyserial/badge/?version=latest
    :target: http://pyserial.readthedocs.io/
    :alt: Documentation
-.. _|cn|: documentation/zh-CN/README.rst
+.. _us: http://pyserial.readthedocs.io/
+.. _cn: documentation/zh-CN/README.rst
