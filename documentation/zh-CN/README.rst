@@ -14,20 +14,20 @@ Language :us: English_ :cn: 简体中文_
 - 法律许可: BSD license, (C) 2001-2017 Chris Liechti <cliechti@gmx.net>
 
 
-Documentation
-=============
-For API documentation, usage and examples see files in the "documentation"
-directory.  The ".rst" files can be read in any text editor or being converted to
-HTML or PDF using Sphinx_. An HTML version is online at
-https://pythonhosted.org/pyserial/
+文档
+====
+API（应用程序接口）文档、用法和例程可查阅 documentation_ 目录下的文档。
+directory.
+- .rst后缀文件可以在任何文本编辑器中查看或者使用 Sphinx_ 转换成HTML或PDF格式
+- 在线HTML版本请浏览：https://pythonhosted.org/pyserial/
 
 例程
 ====
 例程和测试单元存放在工程文件的 examples_ 目录下。
 
 
-Installation
-============
+安装
+====
 ``pip install pyserial`` should work for most users.
 
 Detailed information can be found in `documentation/pyserial.rst`_.
@@ -47,6 +47,7 @@ conda builds are available for linux, mac and windows.
 .. _English: ../../README.rst
 .. _简体中文: ../../documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
+.. _documentation: https://github.com/pyserial/pyserial/blob/master/documentation
 .. _examples: https://github.com/pyserial/pyserial/blob/master/examples
 .. _Python: http://python.org/
 .. _Sphinx: http://sphinx-doc.org/
