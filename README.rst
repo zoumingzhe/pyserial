@@ -4,8 +4,8 @@
 
 Language:
 =========
-:us: us_
-:cn: cn_
+::us: us_
+::cn: cn_
 
 Overview
 ========
