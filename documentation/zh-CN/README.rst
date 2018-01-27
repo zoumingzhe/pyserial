@@ -29,13 +29,21 @@ API（应用程序接口）文档、用法和例程可查阅 documentation_ 目�
 安装
 ====
 大多数用户可以通过一下命令安装pySerial模块，更多安装信息请查阅 `documentation/pyserial.rst`_ 该文档。
+
 ``pip install pyserial`` 
 
 Windows，OSX，Linux，BSD，Jython，IronPython可通过 Python_ 库下载源文件后使用setup.py进行安装（请参阅上面的下载地址）。
 或者是通过conda命令来安装（conda版本可用于Linux，Mac和Windows）：
-``conda install -c conda-forge pyserial``   
+
+``conda install -c conda-forge pyserial``  
 
 
+中文支持
+========
+问文档的翻译由 zoumingzhe@qq.com_ 完成，为了更好的帮助更多的中国开发者了解和使用pySerial模块，请关注中文工程主页: https://github.com/zoumingzhe/pyserial
+
+
+.. _zoumingzhe@qq.com: https://zoumingzhe.github.io
 .. _English: ../../README.rst
 .. _简体中文: ../../documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
