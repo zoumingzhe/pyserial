@@ -4,7 +4,7 @@
 
 Language:
 =========
-  :us: English_  :cn: 简体中文_
+::us: English_  :cn: 简体中文_
 
 Overview
 ========
