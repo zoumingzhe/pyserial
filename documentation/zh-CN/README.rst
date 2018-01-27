@@ -23,7 +23,7 @@ https://pythonhosted.org/pyserial/
 
 例程
 ====
-例程和测试单元存放在工程文件的examples_目录下。
+例程和测试单元存放在工程文件的 examples_ 目录下。
 
 
 Installation
