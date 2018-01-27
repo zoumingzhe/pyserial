@@ -4,7 +4,7 @@
 
 Language:
 =========
-:us: English_    :cn: 简体中文_
+  :us: English_  :cn: 简体中文_
 
 Overview
 ========
@@ -48,6 +48,9 @@ To install this package with conda run:
 
 conda builds are available for linux, mac and windows.
 
+
+.. _English_: README.rst
+.. _简体中文: documentation/zh-CN/README.rst
 .. _`documentation/pyserial.rst`: https://github.com/pyserial/pyserial/blob/master/documentation/pyserial.rst#installation
 .. _examples: https://github.com/pyserial/pyserial/blob/master/examples
 .. _Python: http://python.org/
@@ -58,5 +61,3 @@ conda builds are available for linux, mac and windows.
 .. |docs| image:: https://readthedocs.org/projects/pyserial/badge/?version=latest
    :target: http://pyserial.readthedocs.io/
    :alt: Documentation
-.. _English_: README.rst
-.. _简体中文: documentation/zh-CN/README.rst
