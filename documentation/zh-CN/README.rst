@@ -1,5 +1,5 @@
 <div align="right">Language: :us:
-<a title="Chinese" href="documentation\zh-CN/README.rst">:cn:</a></div>
+<a title="Chinese" href="doc/cn/README.md">:cn:</a></div>
 
 
 =================================
