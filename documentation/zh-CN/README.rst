@@ -7,7 +7,7 @@ Language :us: English_ :cn: 简体中文_
 
 概述
 ====
-该模块封装了串口的访问。它提供了运行在Windows，OSX，Linux，BSD（可能是任何POSIX兼容系统）和IronPython上的Python的后端。“serial”模块自动选择适当的后端。
+pySerial模块封装了对串口的访问，通过该模块可以简单是实现串口操作。它提供了运行在Windows，OSX，Linux，BSD（可能是任何POSIX兼容系统）和IronPython上的Python的后端。“serial”模块自动选择适当的后端。
 
 - 工程主页: https://github.com/pyserial/pyserial
 - 下载地址: https://pypi.python.org/pypi/pyserial
