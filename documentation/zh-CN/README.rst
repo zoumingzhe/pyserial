@@ -28,7 +28,7 @@ API（应用程序接口）文档、用法和例程可查阅 documentation_ 目�
 
 安装
 ====
-大多数用户可以通过一下命令安装pySerial模块，更多安装信息请查阅 `documentation/pyserial.rst`_ 该文档。
+大多数用户可以通过下面的命令安装pySerial模块，更多安装信息请查阅 `documentation/pyserial.rst`_ 该文档。
 
 ``pip install pyserial`` 
 
@@ -41,7 +41,7 @@ Windows，OSX，Linux，BSD，Jython，IronPython可通过 Python_ 库下载源�
 
 中文支持
 ========
-问文档的翻译工作由 zoumingzhe@qq.com 作者主页_ 独立完成。
+本文档的中文翻译工作由 zoumingzhe@qq.com 作者主页_ 独立完成。
 
 为了更好的帮助更多的中国开发者了解和使用pySerial模块，请关注中文工程主页: https://github.com/zoumingzhe/pyserial
 
